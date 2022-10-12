@@ -1,0 +1,153 @@
+{
+  "main": {
+    "name": "Utkarsh Singh",
+    "occupation": "React Developer & Software Enthusiast",
+    "description": "Eat Code Sleep Repeat",
+    "image": "image/profilepic3.jpg",
+    "bio": "Hi there! I am Utkarsh Singh! I've been coding for over 2 years now. I am continuously working on my coding skills daily, I am 2 star coder in codechef and solved 100+ problem in leetcode. As a Front End developer I've worked on 3+ projects till now.",
+    "contactmessage": "Get in touch with me!",
+    "email": "us8896664511@gmail.com",
+    "phone": "+91 8896664511",
+    "address": {
+      "city": "Mirzapur",
+      "pincode": "231001",
+      "state": "Uttar Pradesh",
+      "country": "India"
+    },
+    "website": "",
+    "resumedownload": "https://drive.google.com/file/d/1CKFgKq2RRKjBB54Nw5D7gCIgrAu1vwjD/view",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/utkarsh-singh-6b3458201/",
+        "className": "fa fa-linkedin"
+     
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Utkarshsingh786",
+        "className": "fa fa-github"
+      }, 
+       {
+        "name": "codechef",
+        "url": "https://www.codechef.com/users/utkarsh_singh1",
+        "className": "fa fa-code"
+      },
+      {
+        "name": "leetcode",
+        "url": "https://leetcode.com/us8896664511/",
+        "className": "fa fa-laptop"
+      }
+
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Krishna Engineering College - Ghaziabad",
+        "degree": "Bachelor's Degree, Computer Science and Engineering",
+        "graduated": "Oct 2020 - NA 2024",
+        "description": "Current CGPA - 8.6+"
+      }
+      ,{
+        "school": "BLJ Inter College - Mirzapur",
+        "degree": "Intermediate, PCM",
+        "graduated": "July 2020",
+        "description": "Percentage - 75.6%"
+      },
+      {
+        "school": "Gurunanak Girls Inter College - Mirzapur",
+        "degree": "High School",
+        "graduated": "June 2018",
+        "description": "Percentage - 80.33%"
+      }
+    ],
+    "work": [
+      {
+        "company": "Twowaits",
+        "title": "Data Science Internship",
+        "years": "2021",
+        "description": "This internship was totaly for improving my skills and knowing how real world works are and finding real worlds problem and their solutions "
+      }
+    ],
+    "skills": [
+      {
+        "name": "C/C++",
+        "level": "90%"
+      },
+      {
+        "name": "Python",
+        "level": "75%"
+      },
+      {
+        "name": "Git/Github",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "70%"
+      },
+      {
+        "name": "HTML/CSS",
+        "level": "90%"
+      },
+      {
+        "name": "Database - MySQL/MongoDb",
+        "level": "60%"
+      },
+       {
+        "name": "  Graphics - Figma/Photoshop",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+     
+      {
+        "title": "Car-game (HTML, CSS and Java-Script)",
+        "category": "Game",
+        "image": "../images/portfolio/netflix-mockup.jpg",
+        "url": "https://utkarshsingh786.github.io/Car-game/"
+      },
+       {
+        "title": "Code Guide - website(HTML and CSS)",
+        "category": "Gallary",
+        "image": "/images/portfolio/whatsapp-clone.jpg",
+        "url": "https://utkarshsingh786.github.io/My-First-Website/"
+      },
+       {
+        "title": "Portfolio (React JS)",
+        "category": "Public",
+        "image": "../images/portfolio/Portfolio-sanskar.jpg",
+        "url": "https://sanskar8176.github.io/portfolio/"
+      },
+       {
+        "title": "",
+        "category": "",
+        "image": "",
+        "url": ""
+      }
+   
+      
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Utkarsh Singh is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend.",
+        "user": "ABC"
+      },
+      {
+        "text": "Utkarsh finsished all of his task before Deadline his Nature and Behaviour is perfectly adequate ... I would definitely recommend.",
+        "user": "XYZ"
+      }
+    ]
+  }
+}
+
+
+
+
+
